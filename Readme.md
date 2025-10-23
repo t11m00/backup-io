@@ -10,10 +10,10 @@ Think **Terraform for backups**: one config file, one CLI, and your critical dat
 
 - 🗄️ **Databases:** PostgreSQL, MySQL/MariaDB, MongoDB  
 - 📂 **File systems:** Backup directories on Linux/Windows servers  
-- 🪣 **Object storage:** S3 buckets & S3-compatible services (
+- 🪣 **Object storage:** S3 buckets & S3-compatible services
 - 💻 **Servers / VMs:** EC2 instances, on-prem servers, generic VMs  
 - ☁️ **SaaS data (future):** Google Workspace, GitHub, etc.  
-- 🔑 **Encryption:** Client-side AES-256-GCM with KMS integration  
+- ~~🔑 **Encryption:** Client-side AES-256-GCM with KMS integration~~  
 - 📦 **Compression & deduplication:** Efficient incremental backups  
 - ✅ **Verifiable:** Automatic restore testing  
 - ⚙️ **Policy-as-code:** Declarative YAML config for sources, schedules, retention  
